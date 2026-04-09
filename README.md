@@ -1,4 +1,4 @@
-# Hybrid Branch Predictor — ECE M116C / CS M151B
+# Hybrid Branch Predictor 
 
 A hybrid branch predictor for the UCLA ECE M116C branch prediction competition (Fall 2025), based on the CBP-2 framework. Combines TAGE, perceptron, statistical corrector, local history, loop detection, and a meta-predictor into a single ensemble, targeting minimum MPKI on the CBP-2 SPEC trace suite.
 
